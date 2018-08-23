@@ -1,12 +1,13 @@
 # RFC-1928_Chinese_Edition
 This is an unofficial translated version of RFC-1928(SOCKS Protocol Version 5) translated by @doem97.
 
+# RFC-1928中文译本
+本译本是非官方译本，由@doem97翻译。
+
+
 # Attention
 This version is not a literal translation, so it may lead to some misunderstanding. A more accurate explanation can be found in the RFC-1928 original page.
 This paper refers to Radeon's translation, and is translated in a more readily comprehensible way. If there is any infringement, please contact the author at doem1997@gmail.com.
-
-# RFC-1928中文译本
-本译本是非官方译本，由@doem97翻译。
 
 # 注意
 本译本并非直译版本，所以可能会带来一些误解，更精确的解释可以参考原文。
