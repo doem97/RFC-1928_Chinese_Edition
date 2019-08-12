@@ -1,8 +1,8 @@
 # RFC-1928_Chinese_Edition
-This is an unofficial translated version of RFC-1928(SOCKS Protocol Version 5) translated by @doem97.
+This is an unofficial translated version of RFC-1928(SOCKS Protocol Version 5) translated by @doem97. [Detail](https://github.com/doem97/RFC-1928_Chinese_Edition/blob/master/RFC1928%20-%20Translation.md)
 
 # RFC-1928中文译本
-本译本是非官方译本，由@doem97翻译。
+本译本是非官方译本，由@doem97翻译。查看完整中文译本点击[这里](https://github.com/doem97/RFC-1928_Chinese_Edition/blob/master/RFC1928%20-%20Translation.md)
 
 
 # Attention
